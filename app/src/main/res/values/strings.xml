@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FilmGame</string>
+
+    <string name="button_response">Response</string>
+    <string name="indice_Text">C \' est l\' histoire d\'un mec qui prend le train pour aller à l\' école</string>
+
+    <string name="title_activity_home_page">HomePageActivity</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="button_game">Game</string>
+    <string name="button_addResponse">Submit Film description</string>
+    <string name="button_rules">Rules</string>
+    <string name="button_skip">Skip</string>
+</resources>
